@@ -22,9 +22,9 @@ If file size is important to you, you can use the version without logos and acce
 
 ### Including Logo
 
--  [CSV](https://cdn.jsdelivr.net/gh/ahmeterenodaci/New-York-Stock-Exchange--NYSE--including-Symbols-and-Logos/nasdaq.csv) (700KB)
--  [JSON](https://cdn.jsdelivr.net/gh/ahmeterenodaci/New-York-Stock-Exchange--NYSE--including-Symbols-and-Logos/nasdaq.json) (985KB)
--  [JSON (minimized)](https://cdn.jsdelivr.net/gh/ahmeterenodaci/New-York-Stock-Exchange--NYSE--including-Symbols-and-Logos/nasdaq.min.json) (866KB)
+-  [CSV](https://cdn.jsdelivr.net/gh/ahmeterenodaci/New-York-Stock-Exchange--NYSE--including-Symbols-and-Logos/nyse.csv) (700KB)
+-  [JSON](https://cdn.jsdelivr.net/gh/ahmeterenodaci/New-York-Stock-Exchange--NYSE--including-Symbols-and-Logos/nyse.json) (985KB)
+-  [JSON (minimized)](https://cdn.jsdelivr.net/gh/ahmeterenodaci/New-York-Stock-Exchange--NYSE--including-Symbols-and-Logos/nyse.min.json) (866KB)
 
 ### Without Logo
 
